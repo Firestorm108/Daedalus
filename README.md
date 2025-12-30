@@ -1,2 +1,2 @@
-# Tesseract-32
-An STM32 devboard with lots of QOL features and a refreshing form factor.
+# Daedalus
+An STM32F405RGT6 based feature-rich flight computer in a refreshing form factor.
